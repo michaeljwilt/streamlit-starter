@@ -1,7 +1,5 @@
 # Streamlit Starter
 
-- This repo is used for Bethel Tech students.
-
 - Pull down this repo to get started with a streamlit template
 
 
@@ -19,3 +17,8 @@ Run `streamlit run app.py` from the command line.
 
 If you receive a `streamlit.cli` error try running:
   -   `python -m streamlit run app.py`
+
+
+# Run using Poetry
+This repo also utilizes poetry for package management. 
+I recommend creating a conda environment using python=3.11 and then run `poetry install`
